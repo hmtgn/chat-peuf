@@ -28,8 +28,22 @@ Tu pourras effectuer des cours supplémentaires en 5ème année pour essayer de 
 
 # Associations à l'EPF
 
-Liste exhaustive des associations étudiantes à l'EPF.
-Description et objectifs de chaque association (culturelle, sportive, technique, etc.).
+Quelles sont les associations à l'EPF ?
+BDE, BDS, BDJ, BDA, BDO, Muzikos, Hel'phi, Junior Entreprise, UVA, CVE, Apostrophe, Gala, IPN, Boutik, EPF Aventure, Fish&Ship, Gliss éco...
+
+Que fait l'association : __ ? 
+Infos à récupérer du livret des assos de l'année actuelle.
+
+Quels sont les grands événements associatifs ? 
+BDE : Soirées, weekend ski, Semaine et weekend d'intégration…
+BDS : Sports
+BDO : Soirées dégustation de vin
+Gala
+
+Comment être recruté dans une asso ?
+En faire la demande auprès du président actuel de l'association pour être redirigé vers les membres suivants. 
+À l'exception du BDE et du BDS, ils viendront vous voir eux-mêmes pour vous recruter. 
+
 # Caractéristiques des Stages
 
 Exigences pour les stages de chaque année (durée, domaine, entreprise, etc.).
@@ -56,6 +70,7 @@ Combien de ects dois-je valider pour obtenir mon diplôme ?
 # Langues Vivantes (LV2, LV3)
 
 Langues vivantes disponibles pour les étudiants en tant que LV2 et LV3.
+
 Conditions de sélection et obligation pour chaque cycle d’études.
 Niveau requis en langues pour la diplomation.
 # Campus de Montpellier
@@ -72,9 +87,19 @@ Plan du campus et localisations des infrastructures importantes.
 La responsable des stages du campus de Montpellier est : 
 
 # Cours par Années
-Programme détaillé des cours selon chaque année et cycle d'études (bachelor, ingénieur).
-Matières obligatoires et choix d’options ou d’enseignements spécialisés.
-Projets et examens marquants pour chaque année.
+Quels projets par année :
+Quels projets fait-on en 1A, 2A, 3A ? 
+1A : Projet Catia, Projet Python, projet personnel
+2A : MATLAB, Projet innovation, Projet mécatronique, CPO
+3A : Projet Conception Système, Initiation à la démarche recherche, Projet Voltaire, étude de Dimensionnement thermique et mécanique, VBA/SQL, Projet Challenge, Examen de LV2
+
+Quels cours par année ? 
+Quels cours en 1A, 2A, 3A ? 
+Info à récupérer dans le document ci-dessous.
+https://epfedu-my.sharepoint.com/personal/antoine_gademer_epf_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fantoine%5Fgademer%5Fepf%5Ffr%2FDocuments%2FEPF%2FMDE%5FLLM%2FUsesCases%2FEducation%2DEPF%2F2024%2D2025%2F2024%2D2025%5Fprogramme%2Ddes%2Dcours%2Epdf&parent=%2Fpersonal%2Fantoine%5Fgademer%5Fepf%5Ffr%2FDocuments%2FEPF%2FMDE%5FLLM%2FUsesCases%2FEducation%2DEPF%2F2024%2D2025
+
+Quels cours ont changé depuis l'année dernière ? 
+différence entre planning de l'année d'avant - planning de l'année actuelle
 
 # Sites et Ressources EPF + liste de contacts EPF 
 
