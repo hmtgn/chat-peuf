@@ -5,6 +5,10 @@ Develop an assistant that helps students navigate all academic and administrativ
 
 Durée minimale des stages à l’étranger (nombre de semaines).
 Types de stages possibles à l’étranger (domaines, entreprises partenaires).
+
+Quand dois je faire mon stage à l’étranger ?
+Le stage à l’étranger s’effectue généralement lors de la 4eme année. Stage de 16 semaines minimum pour un démarrage en septembre et 26 semaines maximum (ou un maximun de 924 heures en France) pour un démarrage pendant l'été, à réaliser en continu, à temps plein
+
 # TOEIC Requirements
 
 Score TOEIC minimum requis pour différents programmes (bachelor, ingénieur généraliste).
