@@ -20,6 +20,9 @@ Dates et modalités d’examen du TOEIC.
 Quel score dois-je valider pour obtenir le toeic? 
 Tu dois avoir au minimum 815.
 
+Le toeic est-il obligatoire ?
+Oui
+
 Que se passe t-il si je rate le toeic?
 Tu pourras effectuer des cours supplémentaires en 5ème année pour essayer de le repasser. Le toeic est indispensable pour valider son diplôme
 
@@ -32,10 +35,24 @@ Description et objectifs de chaque association (culturelle, sportive, technique,
 Exigences pour les stages de chaque année (durée, domaine, entreprise, etc.).
 Processus de recherche et validation des stages.
 Délais et critères d’évaluation.
+Quelles sont les stages obligatoires à l'EPF ?
+- stage d'exécution
+- stage d'engagement citoyen
+- SEI/échange
+- expérience à l'international
+- PFE
+
+Quelle est la durée minimum du PFE ?
+6 mois
+
+
 # Conditions de diplomation
 
 Conditions et critères pour obtenir le diplôme de bachelor ou d’ingénieur généraliste (nombre de crédits, notes minimales, projets).
 Règles concernant les soutenances et projets de fin d’études.
+Combien de ects dois-je valider pour obtenir mon diplôme ?
+6
+
 # Langues Vivantes (LV2, LV3)
 
 Langues vivantes disponibles pour les étudiants en tant que LV2 et LV3.
@@ -43,13 +60,22 @@ Conditions de sélection et obligation pour chaque cycle d’études.
 Niveau requis en langues pour la diplomation.
 # Campus de Montpellier
 
+- Où est la salle K02 ?
+Elle est au rez de chaussé dans le bâtiment central, près du hall.
+
+Où est la cantine ?
+Il n'y a pas de cantine à l'EPF mais c'est 
+
+Qui est la responsable des stages à Montpellier?
 Liste exhaustive des salles et équipements du campus de Montpellier.
 Plan du campus et localisations des infrastructures importantes.
-# Cours par Années
+La responsable des stages du campus de Montpellier est : 
 
+# Cours par Années
 Programme détaillé des cours selon chaque année et cycle d'études (bachelor, ingénieur).
 Matières obligatoires et choix d’options ou d’enseignements spécialisés.
 Projets et examens marquants pour chaque année.
+
 # Sites et Ressources EPF + liste de contacts EPF 
 
 Liste des sites et portails en ligne de l’EPF pour les étudiants (intranet, moodle, inscriptions).
