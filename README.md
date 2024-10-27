@@ -16,6 +16,13 @@ Non pas forcément, cependant tu dois valider une expérience à l'international
 
 Score TOEIC minimum requis pour différents programmes (bachelor, ingénieur généraliste).
 Dates et modalités d’examen du TOEIC.
+
+Quel score dois-je valider pour obtenir le toeic? 
+Tu dois avoir au minimum 815.
+
+Que se passe t-il si je rate le toeic?
+Tu pourras effectuer des cours supplémentaires en 5ème année pour essayer de le repasser. Le toeic est indispensable pour valider son diplôme
+
 # Associations à l'EPF
 
 Liste exhaustive des associations étudiantes à l'EPF.
