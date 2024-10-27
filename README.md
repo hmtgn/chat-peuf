@@ -1,5 +1,5 @@
 # chat-peuf
-Develop an assistant that helps students navigate all academic and administrative requirements, fulfilling graduation prerequisites, and understanding the school’s internal regulations.Use Case: Assist stude
+Développer un assistant qui aide les étudiants à s'y retrouver dans toutes les exigences académiques et administratives, à remplir les conditions d'obtention du diplôme et à comprendre les règlements internes de l'école.Cas d'utilisation : Aider les étudiants
 
 # Stages à l’étranger
 
@@ -62,17 +62,43 @@ Quelle est la durée minimum du PFE ?
 
 # Conditions de diplomation
 
-Conditions et critères pour obtenir le diplôme de bachelor ou d’ingénieur généraliste (nombre de crédits, notes minimales, projets).
-Règles concernant les soutenances et projets de fin d’études.
-Combien de ects dois-je valider pour obtenir mon diplôme ?
-6
+Conditions et critères pour obtenir le diplôme de bachelor ou d’ingénieur généraliste (nombre de crédits, notes minimales, projets) ?
+- 300 ECTS
+- 815 au TOEIC
+- 73% au certificat Voltaire
+- 1 semestre à l'étranger
+- 24 semaines de stage en entreprise
+
+
+# Soutenance et rendus du PFE 
+
+Règles concernant les soutenances et projets de fin d’études?
+-Un mémoire / Rapport de stage
+-Une soutenance en présentiel 
 
 # Langues Vivantes (LV2, LV3)
 
-Langues vivantes disponibles pour les étudiants en tant que LV2 et LV3.
+Langues vivantes disponibles pour les étudiants en tant que LV2 et LV3 ?
+LV2:
+-Allemand
+-Espagnol
+-Japonais
+-Chinois
+LV3:
+-Espagnol
+-Japonais
+-Chinois
 
-Conditions de sélection et obligation pour chaque cycle d’études.
-Niveau requis en langues pour la diplomation.
+Conditions de sélection et obligation pour chaque cycle d’études ?
+LV1 est forcement anglais pour les étudiants de l'EPF
+LV2 : Sélectionner permis les langues enseignées
+LV3 : Optionnel et parmi les langues enseignées (sauf Allemand)
+
+Niveau requis en langues pour la diplomation ?
+Anglais: Solide B2 -> TOEIC : 815
+LV2 : Niveau B1
+LV3 : Pas d'obligation
+
 # Campus de Montpellier
 
 - Où est la salle K02 ?
